@@ -1,11 +1,10 @@
-﻿using Entities.Abstract;
-using Entities.Concrete;
+﻿using Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace DataAccess.Abstract
+namespace Core.DataAccess
 {
     //Generic Constrait - Generic kısıtlama. Metodlara bizim istediğimiz parametleri yazmasını sağlamak amacıyla
     // class demek referans tip demek 
